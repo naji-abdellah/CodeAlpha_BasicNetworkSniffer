@@ -90,8 +90,6 @@ Protocol: TCP (Port: 44321 -> 443)
 --------------------------------------------------
 ```
 
------
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/naji-abdellah-834411315/)
